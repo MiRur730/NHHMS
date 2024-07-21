@@ -63,7 +63,7 @@ export default function Accordions() {
   };
 
   return (
-    <div >
+    <div style={{marginLeft:'-40px',fontSize:'0.5rem',width:'400px'}} >
      <AccordionContainer>
       <Accordion  expanded={expanded === 'panel1'} onChange={handleChange('panel1')}>
         <AccordionSummary aria-controls="panel1d-content" id="panel1d-header">

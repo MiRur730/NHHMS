@@ -24,7 +24,7 @@ const email="vsptk20@gmail.com";
             Contact Us
           </h1>
           <p style={{fontSize:'2rem'}}>Visit Us</p>
-          <p>
+          <p className='feelfree'>
           Feel free to visit us during our office hours to learn more about our school and programs.
           </p>
 

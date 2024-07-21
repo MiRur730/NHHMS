@@ -139,8 +139,12 @@
   }
 
   @media (max-width: 480px) {
-    font-size: 8px;
+    
     padding: 6px 12px;
+
+    .feelfree{
+      font-size: 5px;
+    }
   }
 }
 
